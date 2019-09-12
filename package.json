@@ -1,0 +1,20 @@
+{
+    "name": "bs4",
+    "displayName": "anon_bs4",
+    "description": "bootstrap auto complete",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.38.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/snippets.json"
+            }
+        ]
+    }
+}
